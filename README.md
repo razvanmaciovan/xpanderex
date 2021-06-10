@@ -1,5 +1,7 @@
-### About me 👋
+# Hey there👋 I'm Maciovan Razvan !
 
-#CS Student currently diving deep into game development
+-Computer Science student at University of the West , Timișoara
 
-My work: https://xpanderex.itch.io
+-Indie Game Developer hobbyist
+
+-Check out my work at: https://xpanderex.itch.io
