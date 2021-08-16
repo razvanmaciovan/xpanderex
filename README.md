@@ -1,6 +1,6 @@
 # Hey there👋 I'm Maciovan Razvan !
 
--Computer Science student at University of the West , Timișoara
+-Computer Science student at West University of Timișoara
 
 -Indie Game Developer hobbyist
 
