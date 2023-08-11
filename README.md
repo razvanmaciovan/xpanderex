@@ -13,7 +13,7 @@
 
 ## What I Do
 
-🕹️ **Game Development:** I'm deeply passionate about game development especially 2D pixel art. You check out my itch page: <a target="_blank" rel="noopener noreferrer" href="https://xpanderex.itch.io">
+🕹️ **Game Development:** I'm deeply passionate about game development especially 2D pixel art. You can check out my itch page: <a target="_blank" rel="noopener noreferrer" href="https://xpanderex.itch.io">
   <img align="center" alt="itch.io" width="32px" src="https://static-00.iconduck.com/assets.00/itch-io-icon-2048x2048-i6hzclad.png" />
 </a> 
 
